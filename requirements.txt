@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.2.2
-imbalanced-learn==0.10.1
+scikit-learn
+imbalanced-learn
 plotly
